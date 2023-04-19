@@ -1,1 +1,84 @@
-<mxfile host="app.diagrams.net" modified="2023-03-28T06:36:47.792Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" version="20.8.23" etag="OZOJ8RnwJd0NTNtXijsY" type="github"><diagram name="第 1 页" id="aanUVPx4WIzEpLqVYhF_">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2023-04-19T07:14:12.057Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="4vHVoXMLW-p12RsbDNWJ" version="21.1.7" type="github">
+  <diagram name="第 1 页" id="aanUVPx4WIzEpLqVYhF_">
+    <mxGraphModel dx="1034" dy="476" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="98otKMDiTqC_xNDXeA3z-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontStyle=1" edge="1" parent="1" source="98otKMDiTqC_xNDXeA3z-1" target="98otKMDiTqC_xNDXeA3z-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="98otKMDiTqC_xNDXeA3z-1" value="买家" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="50" y="90" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="98otKMDiTqC_xNDXeA3z-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontStyle=1" edge="1" parent="1" source="98otKMDiTqC_xNDXeA3z-2" target="98otKMDiTqC_xNDXeA3z-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="98otKMDiTqC_xNDXeA3z-2" value="下单页去标识" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFCC;strokeColor=#FFFFCC;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="160" y="105" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="98otKMDiTqC_xNDXeA3z-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontStyle=1" edge="1" parent="1" source="98otKMDiTqC_xNDXeA3z-5" target="98otKMDiTqC_xNDXeA3z-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="98otKMDiTqC_xNDXeA3z-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontStyle=1" edge="1" parent="1" source="98otKMDiTqC_xNDXeA3z-5" target="98otKMDiTqC_xNDXeA3z-19">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="370" y="140" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="98otKMDiTqC_xNDXeA3z-5" value="订单页去标识" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFCC;strokeColor=#FFFFCC;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="290" y="105" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="98otKMDiTqC_xNDXeA3z-16" value="卖家解密生态建设" style="rhombus;whiteSpace=wrap;html=1;rounded=0;strokeColor=#FFCCCC;fillColor=#FFCCCC;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="430" y="95" width="130" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="98otKMDiTqC_xNDXeA3z-19" value="传输链路去标识" style="rhombus;whiteSpace=wrap;html=1;rounded=0;strokeColor=#FFCCCC;fillColor=#FFCCCC;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="280" y="190" width="100" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="98otKMDiTqC_xNDXeA3z-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontStyle=1" edge="1" parent="1" source="98otKMDiTqC_xNDXeA3z-19" target="98otKMDiTqC_xNDXeA3z-27">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="330" y="350" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="98otKMDiTqC_xNDXeA3z-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontStyle=1" edge="1" parent="1" source="98otKMDiTqC_xNDXeA3z-27" target="98otKMDiTqC_xNDXeA3z-32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="98otKMDiTqC_xNDXeA3z-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontStyle=1" edge="1" parent="1" source="98otKMDiTqC_xNDXeA3z-27" target="98otKMDiTqC_xNDXeA3z-49">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="98otKMDiTqC_xNDXeA3z-27" value="面单去标识" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFCC;strokeColor=#FFFFCC;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="290" y="295" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="98otKMDiTqC_xNDXeA3z-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontStyle=1" edge="1" parent="1" source="98otKMDiTqC_xNDXeA3z-32" target="98otKMDiTqC_xNDXeA3z-39">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="98otKMDiTqC_xNDXeA3z-32" value="快递配送" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="200" y="280" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="98otKMDiTqC_xNDXeA3z-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontStyle=1" edge="1" parent="1" source="98otKMDiTqC_xNDXeA3z-39">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="65" y="170" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="98otKMDiTqC_xNDXeA3z-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontStyle=1" edge="1" parent="1" source="98otKMDiTqC_xNDXeA3z-39">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="65" y="360" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="98otKMDiTqC_xNDXeA3z-39" value="&lt;div class=&quot;lake-content&quot;&gt;物流系统去标识&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;rounded=0;strokeColor=#FFCCCC;fillColor=#FFCCCC;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="15" y="287.5" width="100" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="98otKMDiTqC_xNDXeA3z-44" value="物流" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="300" y="250" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="98otKMDiTqC_xNDXeA3z-43" value="发货" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="300" y="145" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="98otKMDiTqC_xNDXeA3z-49" value="除开发成本，每笔隐私面单均收费" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=0" vertex="1" parent="1">
+          <mxGeometry x="430" y="295" width="106" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="98otKMDiTqC_xNDXeA3z-51" value="核心依赖【虚拟手机号】实现，除开发成本，每笔均会产生相关费用" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=0" vertex="1" parent="1">
+          <mxGeometry x="10" y="370" width="135" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
